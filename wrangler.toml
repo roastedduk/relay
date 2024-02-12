@@ -2,6 +2,9 @@ name = "relaybot"
 main = "src/index.ts"
 compatibility_date = "2024-02-08"
 
+[vars]
+BOT_TOKEN = "6915872494:AAHifzb6ZnTZORSRrxeMH_sy7CuSoXK5O94"
+
 # Variable bindings. These are arbitrary, plaintext strings (similar to environment variables)
 # Note: Use secrets to store sensitive data.
 # Docs: https://developers.cloudflare.com/workers/platform/environment-variables
